@@ -1,0 +1,10 @@
+{
+  "name": "cwp-10",
+  "author": "Andrei Chayeuski",
+  "dependencies": {
+    "express": "^4.16.4",
+    "geolib": "^2.0.24",
+    "sequelize": "^4.41.0",
+    "tedious": "^2.7.1"
+  }
+}
